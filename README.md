@@ -11,10 +11,10 @@ In the project directory, you can run:
 ![plot](./login_api.png)
 
 ## Create post API
-![plot](./create post.png)
+![plot](./create_post.png)
 
 ## Get all post API
-![plot](./get_all_post.png)
+![plot](./get_all_posts.png)
 
 ## Dummy data used
 ![plot](./dummy_data.png)
